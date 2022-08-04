@@ -1,0 +1,6 @@
+# Function dependencies, for example:
+# package>=version
+google-cloud-storage==2.4.0
+google-cloud-bigquery==3.2.0
+boto3==1.24.21
+flask==2.1.3
